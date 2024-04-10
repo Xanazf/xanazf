@@ -20,12 +20,16 @@
   I use Arch BTW
 </h6>
 
-
+<div align="center">
   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Xanazf&repo=xanazf)](https://github.com/Xanazf/xanazf)
-
-
-
+</div>
+  
+<div align="center">
   ![Language Usage](https://github-readme-stats.vercel.app/api/top-langs/?username=Xanazf&hide_progress=true&bg_color=1e1e2e&text_color=09ece5&icon_color=7600d6&title_color=00c2cc)
+</div>
+
+
+  
 
 
 <h6 align="center">
