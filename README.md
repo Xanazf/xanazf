@@ -10,7 +10,7 @@
   ·
   <a href="https://github.com/">Current Projects(WIP)</a>
   ·
-  <a href="https://github.com/">Docs(WIP)</a>
+  <a href="https://github.com/Xanazf/dotfiles">Dotfiles</a>
 </h6>
 <h6 align="center">
     <img src="https://github.com/Xanazf/xanazf/blob/main/assets/basepalette_vt.png?raw=true" width="400"/>
