@@ -16,6 +16,6 @@
     <img src="https://github.com/Xanazf/xanazf/blob/main/assets/basepalette_vt.png?raw=true" width="400"/>
 </h6>
 
-<h6 align="end">
+<h6 align="center">
   Thank you to <a href="https://github.com/catppuccin">Catppuccin Community</a> for showing me how to make this better
 </h6>
