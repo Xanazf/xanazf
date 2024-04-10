@@ -8,8 +8,6 @@
 <h6 align="center">
   <a href="https://xanazf.github.io/">Portfolio</a>
   ·
-  <a href="https://github.com/catppuccin/catppuccin#-ports-and-more">Ports</a>
-  ·
   <a href="https://github.com/">Current Projects(WIP)</a>
   ·
   <a href="https://github.com/">Docs(WIP)</a>
