@@ -23,20 +23,20 @@
 <p>
   <sub>Languages & Tooling</sub><br/>
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-090318?style=for-the-badge&logo=typescript&logoColor=61E2FF"/>
-  <img alt="Lua" src="https://img.shields.io/badge/Lua-090318?style=for-the-badge&logo=lua&logoColor=AF6DF9"/>
-  <img alt="Bash" src="https://img.shields.io/badge/Bash-090318?style=for-the-badge&logo=gnubash&logoColor=61E2FF"/>
-  <img alt="C++" src="https://img.shields.io/badge/C++-090318?style=for-the-badge&logo=cplusplus&logoColor=61E2FF"/>
+  <img alt="Lua" src="https://img.shields.io/badge/Lua-090318?style=for-the-badge&logo=lua&logoColor=FC199A"/>
+  <img alt="Bash" src="https://img.shields.io/badge/Bash-090318?style=for-the-badge&logo=gnubash&logoColor=72F1B8"/>
+  <img alt="C++" src="https://img.shields.io/badge/C++-090318?style=for-the-badge&logo=cplusplus&logoColor=FC199A"/>
   <img alt="Biome" src="https://img.shields.io/badge/Biome-090318?style=for-the-badge&logo=biome&logoColor=61E2FF"/>
-  <img alt="Vite" src="https://img.shields.io/badge/Vite-090318?style=for-the-badge&logo=vite&logoColor=61E2FF"/>
+  <img alt="Vite" src="https://img.shields.io/badge/Vite-090318?style=for-the-badge&logo=vite&logoColor=FFCC00"/>
 </p>
 <p>
-  <sub>Frameworks & Infra</sub><br/>
+  <sub>Frameworks & Infrastructure</sub><br/>
   <img alt="React" src="https://img.shields.io/badge/React-090318?style=for-the-badge&logo=react&logoColor=61E2FF"/>
-  <img alt="SolidJS" src="https://img.shields.io/badge/SolidJS-090318?style=for-the-badge&logo=solid&logoColor=AF6DF9"/>
-  <img alt="Astro" src="https://img.shields.io/badge/Astro-090318?style=for-the-badge&logo=astro&logoColor=61E2FF"/>
-  <img alt="DigitalOcean" src="https://img.shields.io/badge/DigitalOcean-090318?style=for-the-badge&logo=digitalocean&logoColor=61E2FF"/>
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-090318?style=for-the-badge&logo=docker&logoColor=61E2FF"/>
-  <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-090318?style=for-the-badge&logo=kubernetes&logoColor=AF6DF9"/>
+  <img alt="SolidJS" src="https://img.shields.io/badge/SolidJS-090318?style=for-the-badge&logo=solid&logoColor=61E2FF"/>
+  <img alt="Astro" src="https://img.shields.io/badge/Astro-090318?style=for-the-badge&logo=astro&logoColor=FF8B39"/>
+  <img alt="DigitalOcean" src="https://img.shields.io/badge/DigitalOcean-090318?style=for-the-badge&logo=digitalocean&logoColor=FC199A"/>
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-090318?style=for-the-badge&logo=docker&logoColor=FF8B39"/>
+  <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-090318?style=for-the-badge&logo=kubernetes&logoColor=FC199A"/>
 </p>
 </div>
 
