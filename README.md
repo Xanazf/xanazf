@@ -7,7 +7,7 @@
 
 <p align="center">
   <b>Web developer · Cloud architect</b><br/>
-  I create digital architecture — from web experiences to cloud foundations.
+  I create digital architecture.
 </p>
 
 <p align="center">
@@ -21,11 +21,13 @@
 ---
 
 ### About
-- Creating digital architecture: resilient backends, clean web frontends, and cloud infra that lasts
+- Creating digital architecture: reliable backends, clean web frontends, lasting cloud infrastructure
 - Developer ergonomics, automation, and pragmatic performance
-- Primary stack: TypeScript, Lua, Bash · Plus a bit of C++ when it matters
+- Primary stack: TypeScript, Lua, Bash · Plus a bit of C++
 
-### Tech I use
+---
+
+<h3 align="center">Tech I use</h3>
 <div align="center">
 <p>
   <sub>Languages & Tooling</sub><br/>
@@ -48,25 +50,25 @@
 </div>
 
 
-.
+<p align="center">·</p>
 
 <div align="center">
     <img src="https://github.com/Xanazf/xanazf/blob/main/assets/antibaryon.png?raw=true" width="420" alt="antibaryon art"/>
 </div>
 
-.
+<p align="center">·</p>
 
 <div align="center">
     <img src="https://github.com/Xanazf/xanazf/blob/main/assets/baryon.png?raw=true" width="420" alt="baryon art"/>
 </div>
 
-.
+<p align="center">·</p>
 
 <p align="center">
   <i>I use Arch, btw.</i>
 </p>
 
-### Stats
+<h3 align="center">Stats</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xanazf&hide_progress=true&bg_color=1e1e2e&text_color=09ece5&icon_color=7600d6&title_color=00c2cc" alt="Top languages" />
 </p>
