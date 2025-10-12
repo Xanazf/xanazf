@@ -18,15 +18,6 @@
   <a href="https://github.com/Xanazf/dotfiles">Dotfiles</a>
 </p>
 
----
-
-### About
-- Creating digital architecture: reliable backends, clean web frontends, lasting cloud infrastructure
-- Developer ergonomics, automation, and pragmatic performance
-- Primary stack: TypeScript, Lua, Bash · Plus a bit of C++
-
----
-
 <h3 align="center">Tech I use</h3>
 <div align="center">
 <p>
@@ -50,19 +41,15 @@
 </div>
 
 
-<p align="center">·</p>
-
 <div align="center">
     <img src="https://github.com/Xanazf/xanazf/blob/main/assets/antibaryon.png?raw=true" width="420" alt="antibaryon art"/>
 </div>
 
-<p align="center">·</p>
+<p align="center">.</p>
 
 <div align="center">
     <img src="https://github.com/Xanazf/xanazf/blob/main/assets/baryon.png?raw=true" width="420" alt="baryon art"/>
 </div>
-
-<p align="center">·</p>
 
 <p align="center">
   <i>I use Arch, btw.</i>
