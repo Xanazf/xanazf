@@ -33,10 +33,10 @@
   <sub>Frameworks & Infrastructure</sub><br/>
   <img alt="React" src="https://img.shields.io/badge/React-090318?style=for-the-badge&logo=react&logoColor=61E2FF"/>
   <img alt="SolidJS" src="https://img.shields.io/badge/SolidJS-090318?style=for-the-badge&logo=solid&logoColor=61E2FF"/>
-  <img alt="Astro" src="https://img.shields.io/badge/Astro-090318?style=for-the-badge&logo=astro&logoColor=FF8B39"/>
+  <img alt="Astro" src="https://img.shields.io/badge/Astro-090318?style=for-the-badge&logo=astro&logoColor=FFCC00"/>
   <img alt="DigitalOcean" src="https://img.shields.io/badge/DigitalOcean-090318?style=for-the-badge&logo=digitalocean&logoColor=FC199A"/>
   <img alt="Docker" src="https://img.shields.io/badge/Docker-090318?style=for-the-badge&logo=docker&logoColor=FF8B39"/>
-  <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-090318?style=for-the-badge&logo=kubernetes&logoColor=FC199A"/>
+  <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-090318?style=for-the-badge&logo=kubernetes&logoColor=FF8B39"/>
 </p>
 </div>
 
