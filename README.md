@@ -22,21 +22,21 @@
 <div align="center">
 <p>
   <sub>Languages & Tooling</sub><br/>
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-1e1e2e?style=for-the-badge&logo=typescript&logoColor=00c2cc"/>
-  <img alt="Lua" src="https://img.shields.io/badge/Lua-1e1e2e?style=for-the-badge&logo=lua&logoColor=7600d6"/>
-  <img alt="Bash" src="https://img.shields.io/badge/Bash-1e1e2e?style=for-the-badge&logo=gnubash&logoColor=09ece5"/>
-  <img alt="C++" src="https://img.shields.io/badge/C++-1e1e2e?style=for-the-badge&logo=cplusplus&logoColor=00c2cc"/>
-  <img alt="Biome" src="https://img.shields.io/badge/Biome-1e1e2e?style=for-the-badge&logo=biome&logoColor=09ece5"/>
-  <img alt="Vite" src="https://img.shields.io/badge/Vite-1e1e2e?style=for-the-badge&logo=vite&logoColor=09ece5"/>
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-090318?style=for-the-badge&logo=typescript&logoColor=61E2FF"/>
+  <img alt="Lua" src="https://img.shields.io/badge/Lua-090318?style=for-the-badge&logo=lua&logoColor=AF6DF9"/>
+  <img alt="Bash" src="https://img.shields.io/badge/Bash-090318?style=for-the-badge&logo=gnubash&logoColor=61E2FF"/>
+  <img alt="C++" src="https://img.shields.io/badge/C++-090318?style=for-the-badge&logo=cplusplus&logoColor=61E2FF"/>
+  <img alt="Biome" src="https://img.shields.io/badge/Biome-090318?style=for-the-badge&logo=biome&logoColor=61E2FF"/>
+  <img alt="Vite" src="https://img.shields.io/badge/Vite-090318?style=for-the-badge&logo=vite&logoColor=61E2FF"/>
 </p>
 <p>
   <sub>Frameworks & Infra</sub><br/>
-  <img alt="React" src="https://img.shields.io/badge/React-1e1e2e?style=for-the-badge&logo=react&logoColor=00c2cc"/>
-  <img alt="SolidJS" src="https://img.shields.io/badge/SolidJS-1e1e2e?style=for-the-badge&logo=solid&logoColor=7600d6"/>
-  <img alt="Astro" src="https://img.shields.io/badge/Astro-1e1e2e?style=for-the-badge&logo=astro&logoColor=09ece5"/>
-  <img alt="DigitalOcean" src="https://img.shields.io/badge/DigitalOcean-1e1e2e?style=for-the-badge&logo=digitalocean&logoColor=09ece5"/>
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-1e1e2e?style=for-the-badge&logo=docker&logoColor=00c2cc"/>
-  <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-1e1e2e?style=for-the-badge&logo=kubernetes&logoColor=7600d6"/>
+  <img alt="React" src="https://img.shields.io/badge/React-090318?style=for-the-badge&logo=react&logoColor=61E2FF"/>
+  <img alt="SolidJS" src="https://img.shields.io/badge/SolidJS-090318?style=for-the-badge&logo=solid&logoColor=AF6DF9"/>
+  <img alt="Astro" src="https://img.shields.io/badge/Astro-090318?style=for-the-badge&logo=astro&logoColor=61E2FF"/>
+  <img alt="DigitalOcean" src="https://img.shields.io/badge/DigitalOcean-090318?style=for-the-badge&logo=digitalocean&logoColor=61E2FF"/>
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-090318?style=for-the-badge&logo=docker&logoColor=61E2FF"/>
+  <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-090318?style=for-the-badge&logo=kubernetes&logoColor=AF6DF9"/>
 </p>
 </div>
 
@@ -57,7 +57,7 @@
 
 <h3 align="center">Stats</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xanazf&hide_progress=true&bg_color=1e1e2e&text_color=09ece5&icon_color=7600d6&title_color=00c2cc" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xanazf&hide_progress=true&bg_color=090318&text_color=8BA7A7&icon_color=AF6DF9&title_color=61E2FF" alt="Top languages" />
 </p>
 
 <h6 align="center">
