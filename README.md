@@ -13,6 +13,8 @@
   <a href="https://github.com/Xanazf/dotfiles">Dotfiles</a>
 </h6>
 
+---
+
 <h6 align="center">
     <img src="https://github.com/Xanazf/xanazf/blob/main/assets/antibaryon.png?raw=true" width="400"/>
 </h6>
@@ -22,6 +24,8 @@
 <h6 align="center">
     <img src="https://github.com/Xanazf/xanazf/blob/main/assets/baryon.png?raw=true" width="400"/>
 </h6>
+
+---
 
 <h6 align="center">
   I use Arch BTW
