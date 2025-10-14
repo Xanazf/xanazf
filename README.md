@@ -26,7 +26,7 @@
   <img alt="Biome" src="https://img.shields.io/badge/Biome-090318?style=for-the-badge&logo=biome&logoColor=61E2FF"/>
   <img alt="Vite" src="https://img.shields.io/badge/Vite-090318?style=for-the-badge&logo=vite&logoColor=FFCC00"/>
   <img alt="Lua" src="https://img.shields.io/badge/Lua-090318?style=for-the-badge&logo=lua&logoColor=FC199A"/>
-  <img alt="C++" src="https://img.shields.io/badge/C++-090318?style=for-the-badge&logo=cplusplus&logoColor=FC199A"/>
+  <img alt="Go" src="https://img.shields.io/badge/Go-090318?style=for-the-badge&logo=Go&logoColor=FC199A"/>
   <img alt="Bash" src="https://img.shields.io/badge/Bash-090318?style=for-the-badge&logo=gnubash&logoColor=72F1B8"/>
 </p>
 <p>
